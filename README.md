@@ -23,7 +23,7 @@ Either run [sessiongen.py](./sessiongen.py) locally or run it on [repl.it by cli
 - `!resume` - Yes, resume.   
 
 ## Support
-- [@BotzHub](https://t.me/Yeageristbots)   
+- [@Yeageristbots](https://t.me/Yeageristbots)   
 
 
 ## TODO
@@ -40,4 +40,3 @@ Either run [sessiongen.py](./sessiongen.py) locally or run it on [repl.it by cli
 - [pytgcalls-wrapper](https://github.com/callsmusic/pytgcalls-wrapper)   
 - [Pyrogram](https://github.com/pyrogram/pyrogram)   
 - [Aditya](https://github.com/xditya)   
-- Everyone who [contributed](https://github.com/xditya/VCBot/graphs/contributors).
